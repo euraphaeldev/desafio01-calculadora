@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# Meu primeiro React App. Curso React Developer - DIO
+
+Projeto de Calculadora em React.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
